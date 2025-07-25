@@ -38,20 +38,11 @@ Future plans include:
 
 ## 📦 Our Projects
 
-### 🔓 Public Repositories
-
 | 📁 Project         | 🔤 Description                            | 🧠 Language |
 |-------------------|--------------------------------------------|-------------|
+| `AdminSecure`     | A Minecraft plugin that secures the execution of administrative commands via a PIN code.     | Java        |
 | `SerweronLib`     | Core Java library used across our tools     | Java        |
 | `Serweron-Docker` | Dockerized environments & dev containers    | Shell       |
-
-### 🔒 Private Repositories
-
-| 📁 Project         | 🔤 Description                              | 🧠 Language |
-|-------------------|----------------------------------------------|-------------|
-| `SerweronCore`    | Main backend and infrastructure (WIP)        | Kotlin      |
-| `SerweronCodeBot` | Multi-purpose Discord bot with utilities     | TypeScript  |
-| `SerweronBot`     | Bot features related to gaming/server tools  | TypeScript  |
 
 > 🔧 We're actively working on these — stay tuned for public releases and documentation!
 
